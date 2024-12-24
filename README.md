@@ -1,5 +1,6 @@
 ![Revenue trend](https://github.com/user-attachments/assets/aa62e035-43be-4861-a3e5-743643e9342e)
-![M M sales](https://github.com/user-attachments/assets/c96dbe4a-9336-4fa1-bfa8-c4b085dbf676)
+![M M sales](https![1](https://github.com/user-attachments/assets/442f41b5-24f2-4f99-a95c-13b691432c42)
+://github.com/user-attachments/assets/c96dbe4a-9336-4fa1-bfa8-c4b085dbf676)
 
 
 This repository features an interactive Power BI dashboard designed 
