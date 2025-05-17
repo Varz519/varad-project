@@ -1,0 +1,82 @@
+
+
+This project analyzes the performance of prominent cricket players using historical match data. It combines Python-based data analysis with Power BI dashboards to generate actionable insights for team selection, player comparison, and performance trends.
+
+## 📊 Objective
+
+To assess and visualize player performance (e.g., Virat Kohli, Jos Buttler) across multiple statistical categories and deliver strategic insights using data visualization.
+
+---
+
+## 🛠 Tools & Technologies
+
+* **Python**: Pandas, Matplotlib, Seaborn (for data wrangling and EDA)
+* **Power BI**: For interactive dashboards and visual comparisons
+* **Jupyter Notebook**: Code environment for analysis
+
+---
+
+## 📁 Dataset
+
+The dataset includes player statistics such as:
+
+* Matches played
+* Runs scored
+* Strike rate
+* Batting average
+* Bowling economy
+* Fielding records (catches/run-outs)
+
+(*Source: Manually collected or scraped from IPL stats websites*)
+
+---
+
+## 🔍 Key Features
+
+* Compare players across 15+ performance metrics
+* Identify consistency, peak seasons, and outliers
+* Highlight top performers by category (e.g., power hitters, all-rounders)
+* Dashboard filters by player, team, and season
+
+---
+
+## 📈 Insights Delivered
+
+* Virat Kohli's performance dips post-2020 compared to pre-2020 peak
+* Jos Buttler's strike rate improvement trend over last 3 seasons
+* Comparative radar charts showing strengths and weaknesses
+
+---
+
+## 🖼️ Screenshots
+
+*(Insert screenshots of Power BI dashboards and charts here)*
+
+---
+
+## 🚀 How to Run
+
+1. Clone this repo
+2. Open `cricket_analysis.ipynb` in Jupyter Notebook
+3. Run all cells to generate visuals and outputs
+4. View the Power BI `.pbix` file for the dashboard
+
+---
+
+## 📌 Future Improvements
+
+* Add more players from other leagues
+* Incorporate predictive modeling for future performance
+* Automate data scraping using BeautifulSoup or Selenium
+
+---
+
+## 📬 Contact
+
+**Varad Sutar**
+Email: [sutarvarad5@gmail.com](mailto:sutarvarad5@gmail.com)
+LinkedIn: [linkedin.com/in/varadsutar](https://linkedin.com/in/varadsutar)
+
+---
+
+**Project Link**: [GitHub Repository](https://github.com/Varz519)
